@@ -1,4 +1,3 @@
-# 🏦 Predicción de Campañas de Marketing Bancario con Deep Learning
 
 Este repositorio contiene la Evaluación Parcial N°1 de la asignatura Fundamentos de Deep Learning. El proyecto implementa una Red Neuronal Artificial (Perceptrón Multicapa - MLP) para predecir si los clientes de un banco suscribirán o no un depósito a plazo.
 
@@ -24,4 +23,4 @@ La forma más rápida, segura y recomendada de ejecutar este proyecto es utiliza
 ### Opción B: Ejecución Local (Jupyter Notebook)
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone https://github.com/nicknaamee/Red_Neuronal_MLP.git
