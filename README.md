@@ -1,6 +1,6 @@
 # 🏦 Predicción de Campañas de Marketing Bancario con Deep Learning
 
-Este repositorio contiene la Evaluación Parcial N°1 de la asignatura Fundamentos de Deep Learning (DLY0100). El proyecto implementa una Red Neuronal Artificial (Perceptrón Multicapa - MLP) para predecir si los clientes de un banco suscribirán o no un depósito a plazo.
+Este repositorio contiene la Evaluación Parcial N°1 de la asignatura Fundamentos de Deep Learning. El proyecto implementa una Red Neuronal Artificial (Perceptrón Multicapa - MLP) para predecir si los clientes de un banco suscribirán o no un depósito a plazo.
 
 ##  Tecnologías y Requisitos
 Para ejecutar este proyecto, necesitas un entorno de Python 3.x con las siguientes librerías instaladas:
