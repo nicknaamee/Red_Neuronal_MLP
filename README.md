@@ -2,7 +2,7 @@
 
 Este repositorio contiene la Evaluación Parcial N°1 de la asignatura Fundamentos de Deep Learning (DLY0100). El proyecto implementa una Red Neuronal Artificial (Perceptrón Multicapa - MLP) para predecir si los clientes de un banco suscribirán o no un depósito a plazo.
 
-## 🛠️ Tecnologías y Requisitos
+##  Tecnologías y Requisitos
 Para ejecutar este proyecto, necesitas un entorno de Python 3.x con las siguientes librerías instaladas:
 * `tensorflow` (o `keras`)
 * `scikit-learn`
@@ -11,7 +11,7 @@ Para ejecutar este proyecto, necesitas un entorno de Python 3.x con las siguient
 * `matplotlib`
 * `seaborn`
 
-## 🚀 Instrucciones para ejecutar el proyecto
+## Instrucciones para ejecutar el proyecto
 
 La forma más rápida, segura y recomendada de ejecutar este proyecto es utilizando **Google Colab**, ya que viene con todas las dependencias preinstaladas y evita problemas de compatibilidad.
 
